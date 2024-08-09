@@ -1,0 +1,22 @@
+.edit-customer-form {
+  margin-bottom: 20px;
+}
+
+.edit-customer-form .MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.edit-customer-form .MuiButton-root {
+  margin-top: 16px;
+}
+.tbcell{
+  font-size: 1.2rem;
+}
+#Custlist{
+  padding: 30px;
+  color: brown;
+  align-items: center;
+
+  font-weight: 1000;
+  font-family: "Kode Mono", monospace;
+}

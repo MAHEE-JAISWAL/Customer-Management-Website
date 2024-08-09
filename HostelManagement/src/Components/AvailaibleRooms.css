@@ -1,0 +1,21 @@
+.room-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.room-card:hover {
+  transform: scale(1.05);
+}
+
+.room-image {
+  object-fit: cover;
+  width: 100%;
+}
+
+#Avail{
+  padding: 30px;
+  color: brown;
+  align-items: center;
+
+  font-weight: 1000;
+  font-family: "Kode Mono", monospace;
+}
